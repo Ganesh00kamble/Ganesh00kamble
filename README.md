@@ -13,8 +13,8 @@ I'm a **Data Science & Python Developer** passionate about:
 - 🎯 Career Goal: Data Scientist / ML Engineer  
 
 📫 Reach me:  
-- Email: yourmail@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: ganesh.k.7207@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/ganesh-kamble-1972b4308
 
 ---
 
