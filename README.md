@@ -65,3 +65,4 @@ I'm a **Data Science & Python Developer** passionate about:
 - Open to **Data Science / Python roles**
 - Internships & fresher opportunities
 - ML project collaboration
+.
