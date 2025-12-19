@@ -1,16 +1,8 @@
 
-Here are some ideas to get you started:
 # 👋 Hi, I'm Ganesh Kamble
 
 ## 👨‍💻 About Me
-I'm a **Data Science & Python Developer** passionate about:
-- Data-driven solutions
-- Machine Learning models
-- End-to-end ML pipelines
-
-- 🔭 Working on real-world data science projects  
-- 🌱 Learning advanced ML & deployment  
-- 🎯 Career Goal: Data Scientist / ML Engineer  
+I am a motivated and detail-oriented engineering graduate with a strong interest in solving real-world problems using data and machine learning. I enjoy learning new technologies and applying them through hands-on projects. I am currently building my skills in Python, data science, and machine learning to start my career in the IT industry.  
 
 📫 Reach me:  
 - Email: ganesh.k.7207@gmail.com
@@ -42,7 +34,14 @@ I'm a **Data Science & Python Developer** passionate about:
 **Tools:** Git, Docker, Linux, AWS, Jupyter, Google Colab  
 **Databases:** MySQL, MongoDB  
 
+
+
 ---
+### 🎯 Career Objective
+To begin my career as a Data Scientist or Python Developer and contribute to impactful, data-driven projects.
+---
+
+
 
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh00kamble&show_icons=true&theme=dark)
