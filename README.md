@@ -17,6 +17,23 @@ I'm a **Data Science & Python Developer** passionate about:
 - LinkedIn:  https://www.linkedin.com/in/ganesh-kamble-1972b4308
 
 ---
+## 🛠 Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+---
 
 ## 🧠 Skills Summary
 **Programming:** Python, SQL  
@@ -36,17 +53,7 @@ I'm a **Data Science & Python Developer** passionate about:
 
 ---
 
-## 🛠 Technologies & Tools
-![Python](https://img.shields.io/badge/Python-blue)
-![NumPy](https://img.shields.io/badge/NumPy-orange)
-![Pandas](https://img.shields.io/badge/Pandas-purple)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-yellow)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![AWS](https://img.shields.io/badge/AWS-orange)
-![Linux](https://img.shields.io/badge/Linux-black)
 
----
 
 ## 🚀 Featured Work
 - ✔️ ML projects with clean EDA & evaluation  
